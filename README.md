@@ -25,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stat1c-sy&" alt="stat1c-sy" /></p>
 
+<img align="left" alt="My favourites" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stat1c-sy" />
+
