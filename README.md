@@ -5,9 +5,9 @@
 
 - 🌱 I recently started **contributing to open source projects**
 
-- 👨‍💻 may passion is [cloud based business software](https://github.com/STAT1C-Sy)
+- 👨‍💻 my passion is [cloud based business software](https://github.com/STAT1C-Sy)
 
-- 🤝 I’m looking for help with [odatafy](https://github.com/gang-of-fork/odatafy-mongodb)
+- 🤝 I’m looking for help with [odatafy] a project that helps developers build REST APIs(https://github.com/gang-of-fork/odatafy-mongodb)
 
 - 💬 Always excited to **get in contact with new people**
 
