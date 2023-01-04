@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fynn</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stat1c-sy" alt="stat1c-sy" /></a> </p>
+- 🔭 I’m currently working on [lots of ideas ;) be sure to check them out](https://github.com/STAT1C-Sy)
 
-- 🔭 I’m currently working on [lots of ideas ;)](https://github.com/STAT1C-Sy)
-
-- 🌱 I recently started **contributing to open source proejcts**
+- 🌱 I recently started **contributing to open source projects**
 
 - 👨‍💻 may passion is [cloud based business software](https://github.com/STAT1C-Sy)
 
@@ -13,7 +11,7 @@
 
 - 💬 Always excited to **get in contact with new people**
 
-- ⚡ I’m always looking for new business ideas **reach out if you have one.**
+- ⚡ I’m looking for new business ideas **reach out if you have one or just want to get in touch.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
